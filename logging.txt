@@ -27,8 +27,9 @@ Body:
     ]
 }
 HTTP/1.1 200 OK
-Date: Sat, 17 Jan 2026 11:33:55 GMT
+Date: Sun, 08 Mar 2026 10:12:11 GMT
 Server: Apache/2.4.52 (Ubuntu)
+Strict-Transport-Security: max-age=604800; includeSubDomains
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
 Access-Control-Max-Age: 3600
@@ -40,17 +41,17 @@ Content-Type: application/json;charset=UTF-8
 
 {
     "status": "OK",
-    "place_id": "27aeb0f80cf12e4864b525e7b8217a90",
+    "place_id": "3557155e951e5e22e1d526d3c313b2e5",
     "scope": "APP",
-    "reference": "13f2b91fd390fa73467c999deefd87dc13f2b91fd390fa73467c999deefd87dc",
-    "id": "13f2b91fd390fa73467c999deefd87dc"
+    "reference": "802c911e8c20e8fb83a5dda36ffd7ce0802c911e8c20e8fb83a5dda36ffd7ce0",
+    "id": "802c911e8c20e8fb83a5dda36ffd7ce0"
 }
 Request method:	GET
-Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=27aeb0f80cf12e4864b525e7b8217a90
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=3557155e951e5e22e1d526d3c313b2e5
 Proxy:			<none>
 Request params:	<none>
 Query params:	key=qaclick123
-				place_id=27aeb0f80cf12e4864b525e7b8217a90
+				place_id=3557155e951e5e22e1d526d3c313b2e5
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -59,8 +60,9 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Sat, 17 Jan 2026 11:33:56 GMT
+Date: Sun, 08 Mar 2026 10:12:12 GMT
 Server: Apache/2.4.52 (Ubuntu)
+Strict-Transport-Security: max-age=604800; includeSubDomains
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
 Access-Control-Max-Age: 3600
@@ -96,11 +98,12 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "place_id": "27aeb0f80cf12e4864b525e7b8217a90"
+    "place_id": "3557155e951e5e22e1d526d3c313b2e5"
 }
 HTTP/1.1 200 OK
-Date: Sat, 17 Jan 2026 11:33:58 GMT
+Date: Sun, 08 Mar 2026 10:12:13 GMT
 Server: Apache/2.4.52 (Ubuntu)
+Strict-Transport-Security: max-age=604800; includeSubDomains
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
 Access-Control-Max-Age: 3600
