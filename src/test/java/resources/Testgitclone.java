@@ -20,5 +20,19 @@ System.out.println("deletetwitter4");
 System.out.println("deletetwitter5");
 System.out.println("deletetwitter6");
 	}
+	
+public void andriod()
+	{
+		// TODO Auto-generated method stub
+System.out.println("Andriod testing");
+
+	}
+
+public void ios()
+{
+	// TODO Auto-generated method stub
+System.out.println("IOS testing");
+
+}
 
 }
